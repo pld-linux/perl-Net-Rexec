@@ -27,7 +27,7 @@ Net::Rexec - wsparcie dla protoko³u REXEC.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
