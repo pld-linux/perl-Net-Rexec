@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Net
-%define	pnam	Rexec
+%define		pdir	Net
+%define		pnam	Rexec
 Summary:	Net::Rexec perl module
 Summary(pl):	Modu³ perla Net::Rexec
 Name:		perl-Net-Rexec
