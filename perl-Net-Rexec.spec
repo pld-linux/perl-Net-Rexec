@@ -9,7 +9,7 @@ Summary:	Net::Rexec perl module
 Summary(pl):	Modu³ perla Net::Rexec
 Name:		perl-Net-Rexec
 Version:	0.12
-Release:	9
+Release:	10
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
