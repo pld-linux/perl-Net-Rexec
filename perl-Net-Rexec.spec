@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Net
 %define	pnam	Rexec
-Summary:	Net-Rexec perl module
-Summary(pl):	Modu³ perla Net-Rexec
+Summary:	Net::Rexec perl module
+Summary(pl):	Modu³ perla Net::Rexec
 Name:		perl-Net-Rexec
 Version:	0.12
 Release:	8
@@ -16,10 +16,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Net-Rexec Perl extension for the REXEC protocol.
+Net::Rexec Perl extension for the REXEC protocol.
 
 %description -l pl
-Net-Rexec - wsparcie dla protoko³u REXEC.
+Net::Rexec - wsparcie dla protoko³u REXEC.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
