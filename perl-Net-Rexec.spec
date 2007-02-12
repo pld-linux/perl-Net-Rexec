@@ -6,7 +6,7 @@
 %define		pdir	Net
 %define		pnam	Rexec
 Summary:	Net::Rexec perl module
-Summary(pl):	Modu≥ perla Net::Rexec
+Summary(pl.UTF-8):   Modu≈Ç perla Net::Rexec
 Name:		perl-Net-Rexec
 Version:	0.12
 Release:	10
@@ -24,8 +24,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Net::Rexec Perl extension for the REXEC protocol.
 
-%description -l pl
-Net::Rexec - wsparcie dla protoko≥u REXEC.
+%description -l pl.UTF-8
+Net::Rexec - wsparcie dla protoko≈Çu REXEC.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
