@@ -6,7 +6,7 @@
 %define		pdir	Net
 %define		pnam	Rexec
 Summary:	Net::Rexec perl module
-Summary(pl.UTF-8):   Moduł perla Net::Rexec
+Summary(pl.UTF-8):	Moduł perla Net::Rexec
 Name:		perl-Net-Rexec
 Version:	0.12
 Release:	10
