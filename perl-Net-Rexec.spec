@@ -4,7 +4,6 @@
 
 %define		pdir	Net
 %define		pnam	Rexec
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::Rexec perl module
 Summary(pl.UTF-8):	Moduł perla Net::Rexec
 Name:		perl-Net-Rexec
